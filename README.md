@@ -1,0 +1,2 @@
+# ST25-26_COUR01.LT05_Group06
+The topic focuses on designing and applying automated testing for the UniMIS Training Program Management system, which supports course management, curriculum management, and course registration, aiming to ensure accuracy, stability, and improve overall system quality during operation.
