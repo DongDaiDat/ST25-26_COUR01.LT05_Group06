@@ -1,1 +1,72 @@
 
+A
+A directed graph of nodes connected by transitions is a _____ diagram.D. state machine
+A design mechanism _____ D. assumes some details of the implementation environment, but is not tied to a specific implementation
+Additional subsystems can be discovered during Use Case Design by noting _____A. common subflows between objects on several sequence diagrams
+Artifacts are entities that _____ B. are deployed onto physical nodes
+C
+Click on the exhibit button. Given information provided in the diagram, which statement is true? C. Animal may not have direct instances.
+Click on the exhibit button. In the diagram, the attribute CourseOffering.numberOfStudents is an example of _____.C. a derived attribute
+Click on the exhibit button. In the diagram, what are C1 and C2? G. states
+Click on the exhibit button. In the diagram, what is A? B. initial state
+Click on the exhibit button. In the diagram, what is B? E. final state
+Click on the exhibit button. In the diagram, what is D? D. transition
+Click on the exhibit button. In the diagram, what is E? H. guard condition
+Click on the exhibit button. In the diagram, what is F? F. event
+Click on the exhibit button. In the diagram, what is G? C. decision
+Click on the exhibit button. In the diagram, what is H? A. fork
+D
+Defining the network configuration is the _____ step of the Describe the Distribution activity. C. second
+During Subsystem Design, how many interaction diagrams (sequence or communication) should be created? A. at least one interaction diagram per interface operation
+G Given the following configuration: Package A, which contains class aClass is in the presentation layer. Package B, which contains a class bClass and an interface bInterface is in the business layer. Package C, which contains cClass is in the data layer. Which is a poor practice? B. aClass has an attribute of type cClass.
+H. How many physical nodes should be identified in order to perform the Describe Distribution activity? D. more than one node
+I.
+Identify Design Elements is part of which workflow detail? D. Refine the Architecture
+In a dependency, through what reference does the client class gain visibility to the supplier? B. parameter reference
+In Subsystem Design, what happens in the step, Distribute Subsystem Responsibilities? A. The subsystems responsibilities are allocated to its internal design elements.
+In the state of a state machine, a behavior can be defined _____ D. inside a state
+In which Analysis and Design activity are subsystems mapped to analysis classes? B. Identify Design Elements
+In which OOAD activity is the distribution mechanism identified? D. Architectural Analysis
+O. On a sequence diagram, what is used to represent a specific subsystem? C. a subsystem component
+S Supplemental sequence diagram documentation, in the form of notes and scripts, is commonly used for _____ (Choose three.)A. describing required timing between messages;B. providing details about conditional behavior;D. correlating extension points in the use case with specific locations in the sequence diagrams
+T
+The Describe Distribution activity is where the processes defined in the Describe the Run-time Architecture activity are allocated to _____A. physical nodes
+The purpose of Unify Classes and Subsystems is to ensure _____.C. the responsibilities of design elements do not overlap
+To begin identifying design mechanisms, you start by categorizing analysis mechanisms. What are three steps in the process of Categorizing Analysis Mechanisms? (Choose three.)A. identify characteristic profiles for each analysis mechanism B. identify the clients of each analysis mechanism D. group clients according to their use of characteristic profiles
+U Use Case Design is part of which workflow detail? C. Design Components
+W
+What are the two types of dependency that can be used from a subsystem? (Choose two.)A. <> dependency to a subsystem interface;B. an <> dependency to a package containing used classes
+What are three purposes of Use Case Design? (Choose three) A. to refine use-case realizations in terms of interactions C. to refine requirements on the operations of design classes D. to refine requirements on the operations of design subsystems and/or their interfaces
+What defines a subsystems responsibilities? B. the operations of the interfaces it implements
+What does an underlined attribute indicate? D. The attribute is defined at the classifier level instead of the instance level.
+What is a design subsystems primary purpose? B. encapsulates behavior
+What is a gate? A. a parameter that represents a message that crosses the boundary of an interaction or interaction fragment
+What is an important consideration when allocating processes to nodes? A. minimizing network traffic
+What is the purpose of subsystem design? C. defines the behaviors specified in the subsystem's interfaces in terms of collaborations of contained design elements
+What is the purpose of the Identify Design Mechanisms activity? C. to refine analysis mechanisms into design mechanisms, based on the constraints imposed by the implementation environment
+What is the relationship between operation and method? C. A method describes how an operation is implemented.
+What is used to describe the process of applying a distribution mechanism during implementation? C. UML pattern and written steps
+When does an analysis class map directly to a design class? B. when the analysis class represents a single logical abstraction
+When identifying design elements, a simple analysis class will map to a(n)_____. C. design class
+When identifying interfaces during the Identify Design Elements activity, which statement is true? D. Interfaces should be packaged separately from the elements that realize them.
+Which 4+1 view is the focus of the Describe Distribution activity? B. Deployment View
+Which activities are performed during Use Case Design? B. describing persistence-related behavior
+Which artifact is used to describe use-case realizations? B. communication diagrams
+Which design element is used to represent a concurrent object? A. active class
+Which entity has a well-defined boundary and identity that encapsulates state and behavior?B. object
+Which is a design mechanism?D. Remote Method Invocation
+Which is a device? D. handheld computer
+Which is a guideline for encapsulating subsystem interactions on sequence diagrams? A. Messages to subsystems should correspond to subsystem interface operations.
+Which is a Use Case Design output artifact? D. the Design Model
+Which is an example of a connector?C. HTTP protocol*
+Which is an example of an Execution Environment? C. J2EE application server
+Which is an input artifact to the Identify Design Elements activity? D. Software Architecture Document
+Which process document describes design mechanisms, any mappings between design mechanisms, and the details regarding their use? B. Design Guidelines
+Which statement is true about design subsystems B. They represent an independent capability with clear interfaces.
+Which statement is true about elements within the subsystem and public visibility? C. No elements inside the subsystem should have public visibility.
+Which statement is true about packages and subsystems? C. A subsystem provides behavior.
+Which task is performed during use-case realization refinement?C. model messages between classes
+Which three activities are elements of Class Design? (Choose three.)A. identify classes and relationships that support implementation of an architecture;B. identify and analyze state transitions in objects of state-controlled classes;D. refine relationships, operations and attributes
+Which type of mechanism is a connector on a deployment diagram?B. communication
+Why would you use subsystem interfaces rather than subsystem instances on sequence diagrams? B. to make use-case realizations easier to change
+With respect to persistence, what are two functions of transactions? (Choose two.)A. ensure that a set of operations is performed either in total, or not at all;C. ensure that sets of objects move from one consistent state to another
