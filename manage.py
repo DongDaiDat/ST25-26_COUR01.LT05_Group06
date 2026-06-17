@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-s
+
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'unimis.settings')
     from django.core.management import execute_from_command_line
