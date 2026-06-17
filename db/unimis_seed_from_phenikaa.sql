@@ -4,6 +4,7 @@
 BEGIN;
 SET CONSTRAINTS ALL DEFERRED;
 
+
 -- 1. Schools
 INSERT INTO miscore_school (id, name, is_active, created_at, updated_at, university_id) VALUES (1, 'Trường Kỹ thuật', TRUE, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, NULL) ON CONFLICT (name) DO UPDATE SET is_active=TRUE, updated_at=CURRENT_TIMESTAMP;
 INSERT INTO miscore_school (id, name, is_active, created_at, updated_at, university_id) VALUES (2, 'Trường CNTT', TRUE, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, NULL) ON CONFLICT (name) DO UPDATE SET is_active=TRUE, updated_at=CURRENT_TIMESTAMP;
