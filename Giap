@@ -1,72 +1,34 @@
+Đoạn văn tả cây bàng (mẫu 2)
+    Cây bàng ở gần nhà em rất cao to. Cây bàng do bác tổ dân phố trồng đã được 8 năm nay. Rễ nó nổi lên mặt đất, ngoằn nghèo như những con trăn hiền lành. Thân cây bàng xù xì cong queo chứ không thẳng đứng như cây bạch đàn. Thân cây bàng cũng to mấy vòng người ôm. Lá bàng xòe rộng như cái quạt mo của bà. Lá bàng mọc thành từng cụm, từng cụm với nhau. Lá bàng màu xanh tươi mát. Mùa hè là mùa lá bàng phát triển nhanh nhất, xanh nhất. Quả bàng chín màu vàng trông rất đẹp mắt. Chúng em thường được ăn những quả bàng chín do rụng xuống. Mùa hè, chúng em thường ngồi dưới gốc cây bàng vui chơi và trò chuyện. Vì vậy mà em sẽ luôn yêu thương cây bàng giống như yêu thương một người bạn học của mình.
 
-A
-A directed graph of nodes connected by transitions is a _____ diagram.D. state machine
-A design mechanism _____ D. assumes some details of the implementation environment, but is not tied to a specific implementation
-Additional subsystems can be discovered during Use Case Design by noting _____A. common subflows between objects on several sequence diagrams
-Artifacts are entities that _____ B. are deployed onto physical nodes
-C
-Click on the exhibit button. Given information provided in the diagram, which statement is true? C. Animal may not have direct instances.
-Click on the exhibit button. In the diagram, the attribute CourseOffering.numberOfStudents is an example of _____.C. a derived attribute
-Click on the exhibit button. In the diagram, what are C1 and C2? G. states
-Click on the exhibit button. In the diagram, what is A? B. initial state
-Click on the exhibit button. In the diagram, what is B? E. final state
-Click on the exhibit button. In the diagram, what is D? D. transition
-Click on the exhibit button. In the diagram, what is E? H. guard condition
-Click on the exhibit button. In the diagram, what is F? F. event
-Click on the exhibit button. In the diagram, what is G? C. decision
-Click on the exhibit button. In the diagram, what is H? A. fork
-D
-Defining the network configuration is the _____ step of the Describe the Distribution activity. C. second
-During Subsystem Design, how many interaction diagrams (sequence or communication) should be created? A. at least one interaction diagram per interface operation
-G Given the following configuration: Package A, which contains class aClass is in the presentation layer. Package B, which contains a class bClass and an interface bInterface is in the business layer. Package C, which contains cClass is in the data layer. Which is a poor practice? B. aClass has an attribute of type cClass.
-H. How many physical nodes should be identified in order to perform the Describe Distribution activity? D. more than one node
-I.
-Identify Design Elements is part of which workflow detail? D. Refine the Architecture
-In a dependency, through what reference does the client class gain visibility to the supplier? B. parameter reference
-In Subsystem Design, what happens in the step, Distribute Subsystem Responsibilities? A. The subsystems responsibilities are allocated to its internal design elements.
-In the state of a state machine, a behavior can be defined _____ D. inside a state
-In which Analysis and Design activity are subsystems mapped to analysis classes? B. Identify Design Elements
-In which OOAD activity is the distribution mechanism identified? D. Architectural Analysis
-O. On a sequence diagram, what is used to represent a specific subsystem? C. a subsystem component
-S Supplemental sequence diagram documentation, in the form of notes and scripts, is commonly used for _____ (Choose three.)A. describing required timing between messages;B. providing details about conditional behavior;D. correlating extension points in the use case with specific locations in the sequence diagrams
-T
-The Describe Distribution activity is where the processes defined in the Describe the Run-time Architecture activity are allocated to _____A. physical nodes
-The purpose of Unify Classes and Subsystems is to ensure _____.C. the responsibilities of design elements do not overlap
-To begin identifying design mechanisms, you start by categorizing analysis mechanisms. What are three steps in the process of Categorizing Analysis Mechanisms? (Choose three.)A. identify characteristic profiles for each analysis mechanism B. identify the clients of each analysis mechanism D. group clients according to their use of characteristic profiles
-U Use Case Design is part of which workflow detail? C. Design Components
-W
-What are the two types of dependency that can be used from a subsystem? (Choose two.)A. <> dependency to a subsystem interface;B. an <> dependency to a package containing used classes
-What are three purposes of Use Case Design? (Choose three) A. to refine use-case realizations in terms of interactions C. to refine requirements on the operations of design classes D. to refine requirements on the operations of design subsystems and/or their interfaces
-What defines a subsystems responsibilities? B. the operations of the interfaces it implements
-What does an underlined attribute indicate? D. The attribute is defined at the classifier level instead of the instance level.
-What is a design subsystems primary purpose? B. encapsulates behavior
-What is a gate? A. a parameter that represents a message that crosses the boundary of an interaction or interaction fragment
-What is an important consideration when allocating processes to nodes? A. minimizing network traffic
-What is the purpose of subsystem design? C. defines the behaviors specified in the subsystem's interfaces in terms of collaborations of contained design elements
-What is the purpose of the Identify Design Mechanisms activity? C. to refine analysis mechanisms into design mechanisms, based on the constraints imposed by the implementation environment
-What is the relationship between operation and method? C. A method describes how an operation is implemented.
-What is used to describe the process of applying a distribution mechanism during implementation? C. UML pattern and written steps
-When does an analysis class map directly to a design class? B. when the analysis class represents a single logical abstraction
-When identifying design elements, a simple analysis class will map to a(n)_____. C. design class
-When identifying interfaces during the Identify Design Elements activity, which statement is true? D. Interfaces should be packaged separately from the elements that realize them.
-Which 4+1 view is the focus of the Describe Distribution activity? B. Deployment View
-Which activities are performed during Use Case Design? B. describing persistence-related behavior
-Which artifact is used to describe use-case realizations? B. communication diagrams
-Which design element is used to represent a concurrent object? A. active class
-Which entity has a well-defined boundary and identity that encapsulates state and behavior?B. object
-Which is a design mechanism?D. Remote Method Invocation
-Which is a device? D. handheld computer
-Which is a guideline for encapsulating subsystem interactions on sequence diagrams? A. Messages to subsystems should correspond to subsystem interface operations.
-Which is a Use Case Design output artifact? D. the Design Model
-Which is an example of a connector?C. HTTP protocol*
-Which is an example of an Execution Environment? C. J2EE application server
-Which is an input artifact to the Identify Design Elements activity? D. Software Architecture Document
-Which process document describes design mechanisms, any mappings between design mechanisms, and the details regarding their use? B. Design Guidelines
-Which statement is true about design subsystems B. They represent an independent capability with clear interfaces.
-Which statement is true about elements within the subsystem and public visibility? C. No elements inside the subsystem should have public visibility.
-Which statement is true about packages and subsystems? C. A subsystem provides behavior.
-Which task is performed during use-case realization refinement?C. model messages between classes
-Which three activities are elements of Class Design? (Choose three.)A. identify classes and relationships that support implementation of an architecture;B. identify and analyze state transitions in objects of state-controlled classes;D. refine relationships, operations and attributes
-Which type of mechanism is a connector on a deployment diagram?B. communication
-Why would you use subsystem interfaces rather than subsystem instances on sequence diagrams? B. to make use-case realizations easier to change
-With respect to persistence, what are two functions of transactions? (Choose two.)A. ensure that a set of operations is performed either in total, or not at all;C. ensure that sets of objects move from one consistent state to another
+Đoạn văn tả cây bàng (mẫu 3)
+    Trên sân của trường em có rất nhiều cây bóng mát và trong số đó thì em thích nhất là cây bàng thật to ở phía góc sân trường. Trên cây bàng có những chú chim hót vang lừng thật vui tai biết bao nhiêu. Cây bàng ở trường em cũng rất cao và to đến nỗi hai, ba người ôm mới xuể được ở phần thân cây. Nhìn ngắm lên cao một chút em cũng lại cảm nhận được cây bàng có các cành cây như chĩa ngang ra và nó như cũng đã và đang đan xen nhau như tạo thành một hình tròn cứ lớp này sang lớp khác vậy. Ấn tượng tiếp theo của em về cây bàng ở đây đó chính là những chiếc lá xanh thẫm thật đẹp. Lá bàng như được thay đổi mỗi khi đến thời tiết giao mùa. Nếu màu hè thì lá bàng thật xanh và um tùm, trên đó lại nở ra những chùm hoa trắng ngà. Cho đến mùa thu cây bàng có các chiếc lá màu vàng. Còn khi mùa xuân ấm áp về thì những cành khẳng khiu đó lại nhú lên những chồi non cũng thật là đẹp biết bao nhiêu. Em yêu quý cây bàng lắm và không bao giờ ngắt lá hay bẻ cành của cây bàng đi.
+
+Đoạn văn tả cây bàng (mẫu 4)
+    Cây bàng trường em như sừng sững ở góc sân trường cho dù mưa to hay bão mạnh thì nó vẫn cứ hiên ngang ở đó. Xung quanh sân trường có rất nhiều cây cối để che bóng mát cho chúng em, nhưng trong đó em thích nhất là cây bàng. Thân của cây bàng cũng rất to, phải đến 2, 3 người mới có thể ôm xuể được thân cây. Nhìn lên trên thân cây cao thì cây bàng đã phân ra những tán lá thật đẹp để có thể giúp cho học sinh chúng em có được những bóng râm mát để chơi đùa. Dưới gốc cây là những cái rễ bàng thật là to, nó nhìn giống như con rắn khổng lồ nhưng lại rất hiền lành không hại ai cả. Lá bàng nhìn thật to giống như một chiếc quạt tay vậy, lá bàng lại còn xanh bóng nữa, đường vân lá như hình xương cá vậy. Chúng em vui chơi thỏa thích trong giờ ra chơi dưới gốc bàng, và em cũng cảm thấy được em rất yêu cây bàng.
+
+Đoạn văn tả cây bàng (mẫu 5)
+    Ngay giữa sân trường em có trồng một cây bàng rất đẹp. Không biết cây trồng từ bao giờ, chỉ biết rằng khi chúng em mới vào trường, cây đã đứng đó, xòe những tán lá rộng chào đón chúng em. Cành cây chĩa ngang, đan xen nhau thành vòng tròn quanh thân. Lá bàng to, rộng, dày và xanh bóng. Trên mặt lá có những đường gân xếp cạnh nhau như bộ xương cá. Rễ cây ngoằn ngoèo nổi lên trên mặt đất. Giờ ra chơi, chúng em lại ngồi dưới gốc bàng trò chuyện rôm rả. Mùi thơm dịu của hoa bàng thoang thoảng trong gió. Những bông hoa nhỏ, li ti hình ngôi sao màu trắng ngà, rụng trên vai, trên tóc chúng em. Cây bàng đã trở thành một phần không thể thiếu trong tuổi thơ em.
+
+Đoạn văn tả cây bàng (mẫu 6)
+    Ngay giữa sân trường em có trồng một cây bàng rất đẹp. Cây cao và to đến nỗi hai, ba người ôm mới xuể. Cành cây chĩa ngang, đan xen nhau thành vòng tròn quanh thân. Những chiếc cành to như những cánh tay khổng lồ vươn ra tứ phía để đón ánh nắng mặt trời. Tán lá xếp thành từng tầng trông đẹp như một tòa tháp cổ kính. Rễ cây to nhô lên khỏi mặt đất như những con rắn hổ mang và có những rễ cắm sâu vào lòng đất để hút chất bổ nuôi cây và giúp cho cây đứng vững. Chúng em rất thích đứng dưới cây bàng để hưởng thụ không khí tươi mát và chơi những trò chơi bổ ích. Em rất yêu quý cây bàng, coi nó như một người bạn thân thiết.
+
+Đoạn văn tả cây bàng (mẫu 7)
+    Cây bàng được trồng rất nhiều ở khuôn viên trường học. Thân cây bàng xù xì cong queo chứ không thẳng đứng như cây bạch đàn. Thân cây bàng to mấy vòng người ôm mới hết. Lá bàng xòe rộng như cái quạt mo và mọc thành từng cụm, từng cụm với nhau. Lá bàng xanh mơn mởn vào hè, mùa đông thì lá bàng chuyển màu vàng óng ả. Hoa bàng mọc thành từng chùm nhỏ li ti giống như hoa xoài. Quả bàng có hình bầu dục. Quả bàng khi chín dần chuyển sang màu vàng. Ăn quả bàng rất thơm và ngon. Chúng em ai ai cũng đã từng được ăn quả bàng nơi sân trường. Tất cả sẽ luôn là kí ức đẹp trong tâm trí em.
+
+Đoạn văn tả cây bàng (mẫu 8)
+    Sân trường em có ba cây bàng mà chúng em thường gọi một cách hóm hỉnh là những "cụ bàng". Không biết những cây bàng đứng đó từ bao giờ và đã trải qua bao nhiêu thế hệ học trò mà giờ đây ba bạn nhỏ ôm mới vừa vặn cái gốc. Thân cây gù, nổi lên nhiều bướu với hình thù khác nhau, trông rất cổ quái. Mùa hè, tán bàng xanh biếc, bóng mát tỏa rợp sân trường, là nơi vui đùa của chúng em mỗi giờ ra chơi. Mùa thu, lá bàng đỏ ối như những chiếc quạt lụa óng ánh, tuyệt đẹp. Đông đến, lá bàng rụng hết, để trơ lại những cành khẳng khiu, gầy guộc. Ấy vậy mà lúc xuân sang, hàng trăm mầm non, dịu dàng như cánh bướm phủ xanh khắp cành trên, cành dưới. Cây bàng là vương quốc của đàn chim sâu. Còn đối với chúng em, bàng là người bạn thương yêu và chất chứa nhiều kỉ niệm của tuổi học trò.
+
+Đoạn văn tả cây bàng (mẫu 9)
+    Trong sân trường em trồng rất nhiều loại cây. Nào là cây hoa sữa, cây lộc vừng, cây phượng, cây bằng lăng có hoa tím biếc… Nhưng em thích nhất là cây bàng. Thân cây to, đầy những nốt sần màu nâu thẫm nhuốm màu năm tháng. Tán lá xòe rộng, từng tán đan vào nhau tạo thành những chiếc ô khổng lồ che mát cho cả sân trường. Lá bàng to, rộng, dày và xanh bóng. Trên mặt lá có những đường gân xếp cạnh nhau như bộ xương cá. Rễ cây ngoằn ngoèo nổi lên trên mặt đất. Em sẽ cố gắng chăm sóc cây bàng thật tốt để cây luôn xanh tươi.
+
+Đoạn văn tả cây bàng (mẫu 10)
+Trên vỉa hè trước nhà em có một cây bàng già. Từ trước khi gia đình em chuyển về đây sinh sống, thì cây bàng đã sừng sững ở đó rồi.
+
+Cây bàng không quá cao, chỉ cao hơn cột đèn đường một chút. Nhưng thân cây thì rất to, một mình em ôm không xuể. Lớp vỏ trên thân cây xù xì, nứt nẻ thành từng rãnh. Một số đoạn ở thân cây có những vết sẹo hình trỏn, đó là các cành bàng từng bị cắt đi để đảm bảo an toàn cho mọi người.
+
+Cây bàng có khá nhiều cành, cành nào cũng to và chắc chắn. Lá bàng có dáng tròn như cánh hoa, to hơn bàn tay em một chút. Mỗi năm cây bàng thay lá một lần. Mùa hè lá bàng tươi xanh mơn mởn, khi sang thu thì chuyển vàng, đỏ rồi rụng dần. Cả mùa đông cây bàng sẽ trơ trọi, ấp ủ nhựa sống, chờ xuân sang nảy mầm xanh.
+
+Vào những ngày hè nóng nực, dưới gốc bàng luôn mát mẻ như ở trong phòng có điều hòa vậy. Tất cả là nhờ tán lá dày nhiều tầng của cây. Mỗi ngày, em đều đứng dưới gốc cây để chờ bạn cùng đến trường. Rồi chiều chiều lại cùng bạn chơi nhảy dây, đá cầu dưới bóng mát của cây.
+
+Em quý cây bàng lắm, nên lúc nào cũng mong cây luôn khỏe mạnh. Để mỗi khi hè sang, tán cây lại xanh tươi, tỏa bóng mát rượi.
