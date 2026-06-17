@@ -1,5 +1,6 @@
 WITH src(code, name, faculty_name) AS (
   VALUES
+  
   ('BIO1','Công nghệ sinh học','Khoa Công nghệ sinh học, Hóa học và Kỹ thuật môi trường'),
   ('CHE1','Kỹ thuật hóa học','Khoa Công nghệ sinh học, Hóa học và Kỹ thuật môi trường'),
 
