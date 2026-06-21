@@ -133,10 +133,10 @@ Kết quả thực thi bộ kiểm thử Selenium/pytest:
 
 | Chỉ số                        | Kết quả |
 | ----------------------------- | ------: |
-| Tổng số test case đã thực thi |      41 |
-| Test case Pass                |      40 |
+| Tổng số test case đã thực thi |      51 |
+| Test case Pass                |      50 |
 | Test case Fail                |       1 |
-| Tỷ lệ Pass                    |  97,56% |
+| Tỷ lệ Pass                    |     98% |
 
 ### Kết quả theo nhóm chức năng
 
@@ -150,7 +150,7 @@ Kết quả thực thi bộ kiểm thử Selenium/pytest:
 |   6 | Phân quyền truy cập                     | `test_permission.py`               |       4 |      4 |     0 |
 |   7 | Quản lý trường và khoa                  | `test_school.py`                   |       7 |      6 |     1 |
 |   8 | Tìm kiếm, lọc dữ liệu và API tìm kiếm   | `test_search_filter.py`            |       5 |      5 |     0 |
-|     | **Tổng cộng**                           |                                    |  **41** | **40** | **1** |
+|     | **Tổng cộng**                           |                                    |  **51** | **50** | **1** |
 
 ---
 
