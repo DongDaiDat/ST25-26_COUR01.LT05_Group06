@@ -5,6 +5,7 @@ BEGIN;
 -- Ensure lecturer email can be used by ON CONFLICT
 CREATE UNIQUE INDEX IF NOT EXISTS miscore_lecturer_email_unique_idx ON miscore_lecturer (email);
 
+
 -- University
 INSERT INTO miscore_university (name, is_active, created_at, updated_at) VALUES ('Đại học Phenikaa', TRUE, NOW(), NOW()) ON CONFLICT (name) DO UPDATE SET updated_at = NOW();
 

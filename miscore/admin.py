@@ -23,6 +23,7 @@ from .models import (
     CurriculumCopyTool
 )
 
+
 # ==== REPORTLAB (PDF) ====
 from .pdf_utils import render_curriculum_pdf
 

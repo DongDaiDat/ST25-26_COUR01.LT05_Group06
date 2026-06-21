@@ -4,6 +4,8 @@
 WITH src(name, position, email, phone, faculty_name) AS (
   VALUES
 
+  
+  
 ('PGS.TS. Đào Văn Dương','Phó hiệu trưởng; Trưởng Khoa; Trưởng nhóm nghiên cứu mạnh','duong.daovan@phenikaa-uni.edu.vn','+84690004618','Khoa Công nghệ sinh học, Hóa học và Kỹ thuật môi trường'),
 ('TS. Vũ Ngọc Phan','Phó trưởng khoa; Giảng viên','phan.vungoc@phenikaa-uni.edu.vn','+84535512033','Khoa Công nghệ sinh học, Hóa học và Kỹ thuật môi trường'),
 ('TS. Nguyễn Hồng Minh','Phó Trưởng khoa; Giảng viên; Giám đốc Trung tâm Nguồn gen','minh.nguyenhong@phenikaa-uni.edu.vn','+84473484163','Khoa Công nghệ sinh học, Hóa học và Kỹ thuật môi trường'),

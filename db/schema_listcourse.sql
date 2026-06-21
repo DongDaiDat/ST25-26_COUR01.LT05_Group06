@@ -12,6 +12,7 @@ CREATE TABLE IF NOT EXISTS public.miscore_listcourse (
   curriculum_id    BIGINT      NOT NULL
 );
 
+
 -- FKs & UNIQUE (guard bằng DO $$ ... $$)
 DO $$
 BEGIN
